@@ -24,7 +24,7 @@ html{
 body{
     background: var(--bg-color);
     color: var(--text-color);
-    position: absolute;
+    
 }
 .header{
     padding: 30px 65px;
